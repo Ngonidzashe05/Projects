@@ -1,0 +1,1 @@
+campus connect html file where students at a university setting get live news occuring at the university while there is an author dashboad who keeps posting the news for the students to use as well as use Ai to help produce news for the students to read as well
